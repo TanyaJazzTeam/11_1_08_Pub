@@ -16,7 +16,7 @@ Spalte 3 ist | etwas wortreicher Text | **$1600**
 Spalte 2 ist | zentriert | $12
 Zebrastreifen | sind ordentlich | ~~$1~~
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
+Dillinger ist ein Cloud-fähiger, mobilfähiger, Offline-Speicher, AngularJS-basierter HTML5-Markdown-Editor.
 
 - Geben Sie links etwas Markdown ein
 - Magie
