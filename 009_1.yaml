@@ -1,12 +1,12 @@
 #YAML
 my:
     cake:
-      composition: [dough, cream]
+      composition: [dough1, cream2]
       dough:
-       - eggs
-       - sugar
-       - flour
+       - eggs3
+       - sugar4
+       - flour5
       cream:
-        - sugar
-        - milk
+        - sugar6
+        - milk7
       composition: { dough: [eggs, sugar, flour], cream: [sugar, milk]}
