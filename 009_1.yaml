@@ -3,7 +3,6 @@ my:
     cake:
       composition: [dough1, cream2]
       dough:
-       - eggs3
        - sugar4
        - flour5
       cream:
