@@ -2,6 +2,7 @@
 commands:
   help: Zeigt diesen Hilfebildschirm an
   cheat: Ermöglicht das Cheaten von Gegenständen
+  give: Give somebody some Slimefun Items
   guide: Schenkt euch einen Slimefun Guide
   teleporter: Sehen Sie sich die Wegpunkte anderer Spieler an
   versions: Listet alle installierten Addons auf
@@ -35,8 +36,8 @@ guide:
   work-in-progress: Diese Funktion ist noch nicht vollständig fertig!
   locked-category:
   - Um diese Kategorie freizuschalten, werden Sie
-  - 
-  - 
+  - need to unlock all items from the
+  - folgenden Kategorien
   search:
     message: "&bWonach möchten Sie suchen?"
     name: "&7Suchen..."
@@ -414,7 +415,9 @@ languages:
   ms: malaiisch
   'no': norwegisch
   ja: japanisch
+  fa: Persian
   th: Thailändisch
+  tl: Tagalog
   ro: rumänisch
   bg: bulgarisch
   ko: Koreanisch
